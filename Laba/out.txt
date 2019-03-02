@@ -1,0 +1,5 @@
+Passengers with a single bag with weight > 30:
+Сидоров
+Paladen
+
+Average baggages weight is: 54,5714
